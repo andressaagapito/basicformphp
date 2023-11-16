@@ -1,0 +1,28 @@
+.forms{
+    background: linear-gradient(to right, pink, lightblue);
+    color: rgb(66, 66, 66);
+    font-weight: bolder;
+    font-size: 16px;
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+}
+button{
+    margin-top: 10px;
+    margin-left: 40px;
+}
+input{
+    margin-bottom: 10px;
+}
+button{
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 5px 40px 5px 40px;
+}
+button a{
+    text-decoration: none;
+}
+button:hover{
+    background: linear-gradient(to right, lightblue, pink);
+    text-decoration:underline;
+}
